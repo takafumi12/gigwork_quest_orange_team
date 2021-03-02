@@ -1,0 +1,2 @@
+# gig_work_quest_orange_team
+ギグワーククエストのオレンジチームのリポジトリです。
